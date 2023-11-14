@@ -1,0 +1,20 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: content-box;
+}
+
+.img-fundo {
+  background-image: url('img_pousada/img-fundo.jpg');
+  height: 93vh;
+  align-items: center;
+  display: flex;
+}
+
+.titulo{
+  background-color:rgba(93,189,153,0.5);
+  color:white;
+}
+body{
+    background-color: red;
+  }

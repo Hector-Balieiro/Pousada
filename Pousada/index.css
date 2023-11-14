@@ -1,0 +1,21 @@
+.img-fundo {
+  background-image: url('img_pousada/img-fundo.jpg');
+  height: 20vh;
+  background-size: cover;
+}
+
+
+.h1 {
+  max-height: 200px;
+}
+
+.w1{
+  width:45%
+}
+
+.w2{
+  width:90%
+}
+.w3{
+  width:100%
+}
